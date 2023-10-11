@@ -1,4 +1,6 @@
-# CLI
+# Can: The Seltzer CLI
+
+Can makes it easier to examine the data across your database, stripe and clerk.
 
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][npm-url]
