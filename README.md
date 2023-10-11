@@ -15,10 +15,12 @@ npm i -g @seltzer/cli
 
 ## Getting Started
 
+### Start Seltzer with environment variables
 ```bash
 seltzer start
 ```
 or
+### Start Seltzer directly 
 ```bash
 seltzer start <database_url>
 ```
